@@ -1,6 +1,6 @@
 ### Hi I am Sebastian
 
-![picture-of-a-porsche](gt3rs.png "gt3rs")
+<img src="gt3rs.png" alt="gt3rs" width="200"/>
 
 ## What I'm Currently Reading
 - *Musahsi* by Eiji Yoshikawa
