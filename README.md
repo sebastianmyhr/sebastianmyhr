@@ -1,4 +1,4 @@
-### Hi I am Sebastian
+### Hi!
 
 I've tried to make this page personalized so here is a picture of a Porsche 911.
 
